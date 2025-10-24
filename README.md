@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 To analyze **global fashion retail performance** across multiple countries and product categories using Power BI.  
-The dashboard provides insights on sales, returns, product performance, customer demographics, and currency trends to support data-driven retail decision-making.
+The dashboard provides insights into sales, returns, product performance, customer demographics, and currency trends, supporting data-driven retail decision-making.
 
 ---
 
@@ -87,7 +87,6 @@ Below are sample screenshots from the Power BI dashboard:
 ## 📁 Folder Structure
 | Folder | Description |
 |---------|--------------|
-| `/data` | Cleaned retail dataset used for dashboard |
 | `/powerbi` | Dashboard screenshots (.png) |
 | `/docs` | Optional project report or .pbix file |
 
